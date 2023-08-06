@@ -49,7 +49,7 @@ checkoutBtn.addEventListener('click',()=>{
         cartItems.innerHTML=""
         totalPrice=0
         total.innerHTML=`Tổng tiền: $0`
-
+        window.location.href ='https://phuduc.vercel.app/'
     }
 })
 
